@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ChangesView.Commit">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="Git.Fetch">
@@ -7,6 +10,7 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
+  <action id="IntroduceConstant" />
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
   <action id="Vcs.Push">
