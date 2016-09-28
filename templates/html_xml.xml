@@ -1,7 +1,0 @@
-<templateSet group="html/xml">
-  <template name="placeholder-image" value="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" description="灰底色图片占位符" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
-</templateSet>
