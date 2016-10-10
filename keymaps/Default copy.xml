@@ -1,4 +1,10 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
