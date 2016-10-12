@@ -1,12 +1,13 @@
 <templateSet group="PHP">
-  <template name="doc-block" value="/* @var $param$ $type$ */" description="行内注释" toReformat="false" toShortenFQNames="true">
-    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="doc-block" value="/* @var $PARAM$ $TYPE$ */" description="行内注释" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="myself" value="/**&#10; * User: Pavle Lee &lt;523260513@qq.com&gt;&#10; */" description="作者标记" toReformat="false" toShortenFQNames="true">
+  <template name="stop" value="var_dump($PARAM$);die();" description="断点输出" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
