@@ -90,9 +90,13 @@
           <option name="url" value="https://github.com/Liv1020/yii2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.oschina.net/swisscrum/library.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\OpenSourceProject" />
+    <option name="cloneParentDir" value="$USER_HOME$/Project/php/alpsavvy/" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="D:\www\w.chexiu.cn\libapi" />
