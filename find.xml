@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'pc.chexiu.cn'" />
-    <option name="defaultScopeName" value="Project 'pc.chexiu.cn'" />
+    <option name="customScope" value="Directory '.../farm/messages/de - [farm]'" />
+    <option name="defaultScopeName" value="Directory '.../farm/messages/de - [farm]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'pc.chexiu.cn'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../farm/messages/de - [farm]'" />
   </component>
 </application>
