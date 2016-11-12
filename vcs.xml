@@ -110,9 +110,13 @@
           <option name="url" value="https://git.oschina.net/swisscrum/docker-template.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.oschina.net/Liv/CourierPickUp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Project/php/alpsavvy" />
+    <option name="cloneParentDir" value="$USER_HOME$/Project/php" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="D:\www\w.chexiu.cn\libapi" />
