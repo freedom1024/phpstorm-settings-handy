@@ -1,6 +1,15 @@
-<scheme name="Solarized Dark copy" version="142" parent_scheme="Default">
+<scheme name="Pavle's Solarized Dark" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2016-12-25T14:02:31</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2016.3.2.0.0</property>
+    <property name="modified">2016-12-25T14:02:51</property>
+    <property name="originalScheme">Solarized Dark copy</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
