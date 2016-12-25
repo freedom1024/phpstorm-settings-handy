@@ -1,0 +1,46 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e48a72c7-5573-4294-b6a1-b98db6bc89e3" name="b2b-platform(128.199.113.8)" url="http://128.199.113.8">
+        <fileTransfer host="128.199.113.8" port="7822" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="7822" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="87bc0158-216e-4a5d-b499-c35664351430" name="egg server" url="http://188.166.8.237">
+        <fileTransfer host="188.166.8.237" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0d5a2b4c-8c1b-40d1-ac81-1869d872bf14" name="b2b-platform(188.166.8.237)" url="http://auhof.farmtasy.com/">
+        <fileTransfer host="188.166.8.237" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f32552e7-ebb8-4e09-8956-a0bbe419f516" name="Pavle's server" url="http://121.41.101.181">
+        <fileTransfer host="121.41.101.181" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1e3d37c5-31c5-415f-b4b3-e3240eeafc4b" name="docker" url="http://128.199.76.25">
+        <fileTransfer host="128.199.76.25" port="7822" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="7822" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
