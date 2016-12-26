@@ -1,0 +1,16 @@
+<toolSet name="Php document">
+  <tool name="Yii Framework 2.0 API Documentation" description="Yii Framework 2.0 API Documentation" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="/Applications/Google Chrome.app" />
+      <option name="PARAMETERS" value="http://www.yiiframework.com/doc-2.0/index.html" />
+      <option name="WORKING_DIRECTORY" value="/Applications" />
+    </exec>
+  </tool>
+  <tool name="PHP中文" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="/Applications/Google Chrome.app" />
+      <option name="PARAMETERS" value="http://php.net/manual-lookup.php?pattern=$SelectedText$&amp;scope=quickref" />
+      <option name="WORKING_DIRECTORY" value="/Applications" />
+    </exec>
+  </tool>
+</toolSet>
