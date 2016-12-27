@@ -1,14 +1,13 @@
-<scheme name="Pavle's Solarized Dark" version="142" parent_scheme="Default">
+<scheme name="_@user_Solarized Dark" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2016-12-25T14:02:31</property>
+    <property name="created">2016-12-26T09:30:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2016-12-26T09:33:31</property>
-    <property name="originalScheme">Solarized Dark copy</property>
+    <property name="modified">2016-12-26T09:35:50</property>
+    <property name="originalScheme">Solarized Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
@@ -1365,6 +1364,9 @@
         <option name="BACKGROUND" value="73642" />
       </value>
     </option>
+    <option name="MAKO.TAG">
+      <value />
+    </option>
     <option name="MAKO.TAG_ID">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -1484,6 +1486,9 @@
         <option name="BACKGROUND" value="859900" />
       </value>
     </option>
+    <option name="MESSAGE_ARGUMENT">
+      <value />
+    </option>
     <option name="Map key">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -1513,7 +1518,6 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="BACKGROUND" value="2b36" />
@@ -1524,7 +1528,6 @@
         <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="EFFECT_COLOR" value="dc322f" />

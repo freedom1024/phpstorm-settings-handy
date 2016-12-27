@@ -8,13 +8,11 @@
   <template name="?php" value="&lt;?php $END$?&gt;" description="php闭合标签" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
-      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="?=" value="&lt;?=$END$?&gt;" description="php输出标签" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
-      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="doc-block" value="/* @var $END$ */" description="php-doc-block" toReformat="false" toShortenFQNames="true">
