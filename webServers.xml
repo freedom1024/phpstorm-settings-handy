@@ -41,14 +41,6 @@
           <option name="port" value="7822" />
         </fileTransfer>
       </webServer>
-      <webServer id="0ce31948-027a-4659-b2d8-43e6d0a36e6a" name="驱动测试环境" url="http://121.199.46.155">
-        <fileTransfer host="121.199.46.155" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
