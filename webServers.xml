@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="0d0f267d-6acb-4636-addb-04f71d08c89c" name="车商通测试服务器" url="http://121.199.46.155">
+        <fileTransfer host="121.199.46.155" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="e48a72c7-5573-4294-b6a1-b98db6bc89e3" name="b2b-platform(128.199.113.8)" url="http://128.199.113.8">
         <fileTransfer host="128.199.113.8" port="7822" accessType="SFTP">
           <advancedOptions>
@@ -39,14 +47,6 @@
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="7822" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="0ce31948-027a-4659-b2d8-43e6d0a36e6a" name="驱动测试环境" url="http://121.199.46.155">
-        <fileTransfer host="121.199.46.155" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="2ee560a4-aa21-4fd1-b315-4211c5438b22" name="金山云-test" url="http://23.91.105.115">
