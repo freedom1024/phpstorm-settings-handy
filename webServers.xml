@@ -33,7 +33,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="1e3d37c5-31c5-415f-b4b3-e3240eeafc4b" name="docker" url="http://128.199.76.25">
+      <webServer id="1e3d37c5-31c5-415f-b4b3-e3240eeafc4b" name="Docker" url="http://128.199.76.25">
         <fileTransfer host="128.199.76.25" port="7822" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -47,6 +47,22 @@
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2ee560a4-aa21-4fd1-b315-4211c5438b22" name="金山云-test" url="http://23.91.105.115">
+        <fileTransfer host="23.91.105.115" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="cd66e9a6-75bf-4179-805d-1114304804af" name="驱动本地开发环境" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
     </option>
