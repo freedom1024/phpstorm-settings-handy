@@ -1,0 +1,36 @@
+<templateSet group="swagger">
+  <template name="swg-parameter" value="- name: $var1$&#10;  in: query&#10;  description: $var2$&#10;  required: true&#10;  type: string" description="swagger parameter" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="swg-response" value="$var1$:&#10;  description: $var2$&#10;  schema:&#10; " description="swg response" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="200" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="success" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="swg-response-obj" value="type: object&#10;properties:&#10;  $var1$:&#10;    type: integer&#10;    format: int11" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="swg-response-arr" value="type: array&#10;items:" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="swg-path" value="$var1$:&#10;  get:&#10;    summary: $var2$&#10;    description: $var3$&#10;    tags:&#10;      - $var4$&#10;    parameters:&#10;    &#10;    responses:&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var4" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

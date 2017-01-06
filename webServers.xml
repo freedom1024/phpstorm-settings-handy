@@ -1,0 +1,70 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0d0f267d-6acb-4636-addb-04f71d08c89c" name="车商通测试服务器" url="http://121.199.46.155">
+        <fileTransfer host="121.199.46.155" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e48a72c7-5573-4294-b6a1-b98db6bc89e3" name="b2b-platform(128.199.113.8)" url="http://128.199.113.8">
+        <fileTransfer host="128.199.113.8" port="7822" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="7822" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="87bc0158-216e-4a5d-b499-c35664351430" name="egg server" url="http://188.166.8.237">
+        <fileTransfer host="188.166.8.237" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0d5a2b4c-8c1b-40d1-ac81-1869d872bf14" name="b2b-platform(188.166.8.237)" url="http://auhof.farmtasy.com/">
+        <fileTransfer host="188.166.8.237" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f32552e7-ebb8-4e09-8956-a0bbe419f516" name="Pavle's server" url="http://121.41.101.181">
+        <fileTransfer host="121.41.101.181" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1e3d37c5-31c5-415f-b4b3-e3240eeafc4b" name="Docker" url="http://128.199.76.25">
+        <fileTransfer host="128.199.76.25" port="7822" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="7822" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2ee560a4-aa21-4fd1-b315-4211c5438b22" name="金山云-test" url="http://23.91.105.115">
+        <fileTransfer host="23.91.105.115" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="cd66e9a6-75bf-4179-805d-1114304804af" name="驱动本地开发环境" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
