@@ -65,6 +65,14 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
+      <webServer id="2294817d-209e-4569-ba5b-d900f9523b58" name="车商通测试FTP" url="http://oas.chexiu.cn">
+        <fileTransfer host="oas.chexiu.cn" port="2121">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="2121" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
