@@ -18,6 +18,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
