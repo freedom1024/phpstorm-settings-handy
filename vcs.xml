@@ -96,7 +96,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\OpenSourceProject" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Project/swisscrum" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="D:\www\w.chexiu.cn\libapi" />
