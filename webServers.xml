@@ -49,7 +49,7 @@
           <option name="port" value="7822" />
         </fileTransfer>
       </webServer>
-      <webServer id="2ee560a4-aa21-4fd1-b315-4211c5438b22" name="金山云-测试环境" url="http://23.91.105.115">
+      <webServer id="2ee560a4-aa21-4fd1-b315-4211c5438b22" name="金山云-测试环境" url="http://cell4d.com">
         <fileTransfer host="23.91.105.115" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
