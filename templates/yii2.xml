@@ -1,12 +1,12 @@
 <templateSet group="yii2">
-  <template name="yii2-js-block" value="&lt;?php JsBlock::begin($var1$)?&gt;&#10;&lt;script&gt;&#10;$var2$&#10;&lt;/script&gt;&#10;&lt;?php JsBlock::end()?&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="yii2-js-block" value="&lt;?php JsBlock::begin($var1$)?&gt;&#10;&lt;script&gt;&#10;$var2$&#10;&lt;/script&gt;&#10;&lt;?php JsBlock::end()?&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="yii2-js" value="yii.sample = (function ($) {&#10;    var pub = {&#10;        // whether this module is currently active. If false, init() will not be called for this module&#10;        // it will also not be called for all its child modules. If this property is undefined, it means true.&#10;        isActive: true,&#10;        init: function () {&#10;            // ... module initialization code go here ...&#10;        },&#10;&#10;        // ... other public functions and properties go here ...&#10;    };&#10;&#10;&#10;    return pub;&#10;})(jQuery);" toReformat="false" toShortenFQNames="true">
+  <template name="yii2-js" value="yii.sample = (function ($) {&#10;    var pub = {&#10;        // whether this module is currently active. If false, init() will not be called for this module&#10;        // it will also not be called for all its child modules. If this property is undefined, it means true.&#10;        isActive: true,&#10;        init: function () {&#10;            // ... module initialization code go here ...&#10;        },&#10;&#10;        // ... other public functions and properties go here ...&#10;    };&#10;&#10;&#10;    return pub;&#10;})(jQuery);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -18,7 +18,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="yii2-t" value="Yii::t('$var1$', '$var2$');" toReformat="false" toShortenFQNames="true">
+  <template name="yii2-t" value="Yii::t('$var1$', '$var2$');" description="" toReformat="false" toShortenFQNames="true">
     <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
