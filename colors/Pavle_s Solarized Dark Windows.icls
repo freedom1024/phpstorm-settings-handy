@@ -1,10 +1,9 @@
 <scheme name="Pavle's Solarized Dark Windows" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2016-12-26T09:33:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-03-27T11:46:05</property>
+    <property name="modified">2017-04-25T15:29:26</property>
     <property name="originalScheme">Pavle's Solarized Dark</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="20" />
@@ -783,7 +782,6 @@
     </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
-        <option name="EFFECT_COLOR" value="859900" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -900,7 +898,6 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="dc322f" />
         <option name="ERROR_STRIPE_COLOR" value="dc322f" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -938,9 +935,8 @@
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
-        <option name="EFFECT_COLOR" value="dc322f" />
         <option name="ERROR_STRIPE_COLOR" value="dc322f" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="GHERKIN_COMMENT">
@@ -1110,9 +1106,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="b58900" />
         <option name="ERROR_STRIPE_COLOR" value="b58900" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -1994,7 +1989,6 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="EFFECT_COLOR" value="859900" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -2049,9 +2043,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="b58900" />
         <option name="ERROR_STRIPE_COLOR" value="b58900" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
