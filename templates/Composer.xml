@@ -6,12 +6,12 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="CSS" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
       <option name="OTHER" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="HAML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
+      <option name="SQL" value="false" />
     </context>
   </template>
   <template name="composer-templete" value="{&#10;    &quot;name&quot;: &quot;$var1$&quot;,&#10;    &quot;description&quot;: &quot;$var2$&quot;,&#10;    &quot;require&quot;: {&#10;        &quot;php&quot;: &quot;&gt;=5.3.0&quot;&#10;    }&#10;}" description="Composer模板" toReformat="false" toShortenFQNames="true">
