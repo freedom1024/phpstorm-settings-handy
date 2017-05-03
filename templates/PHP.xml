@@ -25,7 +25,7 @@
     <variable name="VAR_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="try" value="try {&#10;    $START$&#10;} catch ($e) {&#10;    throw new $END$&#10;}" description="try" toReformat="true" toShortenFQNames="true">
+  <template name="try" value="try {&#10;    $START$&#10;} catch ($e) {&#10;    throw new $END$&#10;}" description="tryggggg" toReformat="true" toShortenFQNames="true">
     <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
   </template>
   <template name="if" value="if ($START$) {&#10;    $END$&#10;}" description="if" toReformat="true" toShortenFQNames="true">
