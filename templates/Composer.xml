@@ -1,16 +1,16 @@
 <templateSet group="Composer">
   <template name="composer-china" value="&quot;repositories&quot;: [&#10;    {&quot;type&quot;: &quot;composer&quot;, &quot;url&quot;: &quot;http://packagist.phpcomposer.com&quot;},&#10;    {&quot;packagist&quot;: false}&#10;]" description="composerz中国镜像" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="CSS" value="false" />
+      <option name="PHP" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HAML" value="false" />
       <option name="HTML" value="false" />
+      <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="OTHER" value="true" />
-      <option name="PHP" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HAML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
       <option name="XML" value="false" />
     </context>
   </template>
