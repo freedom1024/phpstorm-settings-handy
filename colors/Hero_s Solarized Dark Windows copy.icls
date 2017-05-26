@@ -1,10 +1,10 @@
-<scheme name="Pavle's Solarized Dark Windows" version="142" parent_scheme="Default">
+<scheme name="Hero's Solarized Dark Windows copy" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2016-12-26T09:33:21</property>
+    <property name="created">2017-05-26T14:19:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-05-26T14:08:00</property>
-    <property name="originalScheme">Pavle's Solarized Dark</property>
+    <property name="modified">2017-05-26T14:24:00</property>
+    <property name="originalScheme">Pavle's Solarized Dark Windows</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="20" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -14,7 +14,7 @@
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
-    <option name="CARET_COLOR" value="dc322f" />
+    <option name="CARET_COLOR" value="" />
     <option name="CARET_ROW_COLOR" value="73642" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
     <option name="GUTTER_BACKGROUND" value="73642" />
