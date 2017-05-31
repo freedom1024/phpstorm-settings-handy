@@ -1,9 +1,10 @@
 <scheme name="Hero's Solarized Dark Windows copy" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-05-26T14:19:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-05-26T14:24:00</property>
+    <property name="modified">2017-05-31T10:16:47</property>
     <property name="originalScheme">Pavle's Solarized Dark Windows</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="20" />
@@ -2042,6 +2043,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
+        <option name="EFFECT_COLOR" value="b58800" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
