@@ -1,10 +1,11 @@
-<scheme name="Pavle's Solarized Dark Windows" version="142" parent_scheme="Default">
+<scheme name="Ryan's Solarized Dark Windows copy" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2016-12-26T09:33:21</property>
+    <property name="created">2017-06-20T11:17:41</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-05-03T16:27:49</property>
-    <property name="originalScheme">Pavle's Solarized Dark</property>
+    <property name="ideVersion">2017.1.4.0.0</property>
+    <property name="modified">2017-06-20T11:17:53</property>
+    <property name="originalScheme">Hero's Solarized Dark Windows copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="20" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -14,7 +15,7 @@
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
-    <option name="CARET_COLOR" value="dc322f" />
+    <option name="CARET_COLOR" value="" />
     <option name="CARET_ROW_COLOR" value="73642" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
     <option name="GUTTER_BACKGROUND" value="73642" />
@@ -597,9 +598,7 @@
       </value>
     </option>
     <option name="DEFAULT_BRACES">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
@@ -2044,6 +2043,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
+        <option name="EFFECT_COLOR" value="b58800" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
