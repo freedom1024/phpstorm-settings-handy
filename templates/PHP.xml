@@ -28,7 +28,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="try" value="try {&#10;            &#10;} catch (\Exception $e) {&#10;    throw new UserException(''); &#10;}" description="try" toReformat="true" toShortenFQNames="true">
+  <template name="try" value="try {&#10;            &#10;} catch (UserException $e) {&#10;    throw new UserException(''); &#10;}" description="try" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
@@ -63,6 +63,11 @@
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="tran" value="$tran = Area::getDb()-&gt;beginTransaction();&#10;try {&#10;&#10;    $tran-&gt;commit();&#10;} catch (UserException $e) {&#10;    $tran-&gt;rollBack();&#10;    throw new UserException($e-&gt;getMessage());&#10;}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
     </context>
   </template>
 </templateSet>
