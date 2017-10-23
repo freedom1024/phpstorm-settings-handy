@@ -65,7 +65,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="tran" value="$tran = Area::getDb()-&gt;beginTransaction();&#10;try {&#10;&#10;    $tran-&gt;commit();&#10;} catch (UserException $e) {&#10;    $tran-&gt;rollBack();&#10;    throw new UserException($e-&gt;getMessage());&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="tran" value="$tran = Area::getDb()-&gt;beginTransaction();&#10;try {&#10;&#10;    $tran-&gt;commit();&#10;} catch (UserException $e) {&#10;    $tran-&gt;rollBack();&#10;    throw new UserException($e-&gt;getMessage());&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
