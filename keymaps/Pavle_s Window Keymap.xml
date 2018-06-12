@@ -11,6 +11,7 @@
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
+  <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate">
@@ -25,20 +26,26 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
   </action>
   <action id="Git.Pull">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
   <action id="HtmlTableCellNavigateDown" />
+  <action id="IncrementWindowHeight" />
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="ShowUmlDiagramPopup" />
@@ -59,7 +66,8 @@
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Push">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="VcsShowNextChangeMarker" />
 </keymap>
