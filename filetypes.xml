@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="demo" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="dff" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
