@@ -2,7 +2,7 @@
   <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="vagrant://D:/dev/4snewapi" id="b5cec77f-6c4e-4e41-8841-c79c2d2a9622" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
+      <interpreter home="vagrant://D:/dev/4snewapi" id="b5cec77f-6c4e-4e41-8841-c79c2d2a9622" name="Remote PHP 7" debugger_id="php.debugger.XDebug" debugger_extension="/var/www/4snewapi">
         <remote_data VAGRANT_FOLDER="D:/dev/4snewapi" INTERPRETER_PATH="" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="vagrant://D:/box/ubuntuD:\phpstudy\PHPTutorial\php\php-5.6.27-nts\php.exe" id="6976e037-d15a-4c10-a963-4d689f3690de" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
