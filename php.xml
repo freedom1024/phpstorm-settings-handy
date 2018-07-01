@@ -1,4 +1,16 @@
 <application>
+  <component name="PhpAutoImport" auto_import_file_scope="true" />
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="vagrant://D:/develop/opt/cstenv/bin/php" id="b5cec77f-6c4e-4e41-8841-c79c2d2a9622" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
+        <remote_data VAGRANT_FOLDER="D:/develop" INTERPRETER_PATH="/opt/cstenv/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      </interpreter>
+      <interpreter home="vagrant://D:/box/ubuntuD:\phpstudy\PHPTutorial\php\php-5.6.27-nts\php.exe" id="6976e037-d15a-4c10-a963-4d689f3690de" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
+        <remote_data VAGRANT_FOLDER="D:/box/ubuntu" INTERPRETER_PATH="D:\phpstudy\PHPTutorial\php\php-5.6.27-nts\php.exe" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      </interpreter>
+      <interpreter home="D:\phpstudy\PHPTutorial\php\php-5.6.27-nts\php.exe" id="30d5b729-5fb7-4cc7-a8c3-0d7b4ed6763f" name="PHP" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 7">
