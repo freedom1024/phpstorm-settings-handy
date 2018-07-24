@@ -1,4 +1,4 @@
-<keymap version="1" name="Pavle's Window Keymap" parent="$default">
+<keymap version="1" name="Ryan's Window Keymap" parent="$default">
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
   </action>
