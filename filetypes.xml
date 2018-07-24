@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Vagrantfile" type="YAML" />
+      <mapping pattern=".env" type="YAML" />
     </extensionMap>
   </component>
 </application>
