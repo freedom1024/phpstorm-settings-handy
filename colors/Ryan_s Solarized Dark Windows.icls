@@ -1,16 +1,17 @@
-<scheme name="Ryan's Solarized Dark Windows copy" version="142" parent_scheme="Default">
+<scheme name="Ryan's Solarized Dark Windows" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-06-20T11:17:41</property>
+    <property name="created">2018-07-27T18:40:27</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-20T11:17:53</property>
-    <property name="originalScheme">Hero's Solarized Dark Windows copy</property>
+    <property name="ideVersion">2018.1.4.0.0</property>
+    <property name="modified">2018-07-27T18:40:38</property>
+    <property name="originalScheme">Ryan's Solarized Dark Windows copy</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />

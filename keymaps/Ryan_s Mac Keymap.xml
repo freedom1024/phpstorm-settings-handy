@@ -1,4 +1,4 @@
-<keymap version="1" name="Pavle's Mac Keymap" parent="Mac OS X 10.5+">
+<keymap version="1" name="Ryan's Mac Keymap" parent="Mac OS X 10.5+">
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
