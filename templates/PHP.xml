@@ -28,7 +28,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="try" value="try {&#10;            &#10;} catch (UserException $e) {&#10;    throw new UserException(''); &#10;}" description="try" toReformat="true" toShortenFQNames="true">
+  <template name="try" value="try {&#10;            &#10;} catch (\Exception $e) {&#10;    throw new UserException(''); &#10;}" description="try" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
