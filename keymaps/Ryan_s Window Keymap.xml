@@ -4,8 +4,7 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="Back">
-    <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="shift ctrl left" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
   <action id="ChangesView.AddUnversioned">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
@@ -28,6 +27,7 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="EditorPreviousWord" />
   <action id="EditorPreviousWordWithSelection" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath" />
