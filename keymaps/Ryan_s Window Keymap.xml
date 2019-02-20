@@ -5,6 +5,7 @@
   </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="ChangesView.AddUnversioned">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
@@ -16,6 +17,7 @@
   <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
+  <action id="DecreaseColumnWidth" />
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
@@ -26,6 +28,7 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="EditorPreviousWordWithSelection" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath" />
   <action id="Forward">
@@ -54,6 +57,7 @@
   </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowUp" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
