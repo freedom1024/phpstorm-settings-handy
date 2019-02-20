@@ -27,12 +27,13 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
   <action id="EditorPreviousWordWithSelection" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath" />
   <action id="Forward">
-    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
